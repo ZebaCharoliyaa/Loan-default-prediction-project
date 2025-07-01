@@ -8,7 +8,7 @@ This project aims to build a machine learning model that can predict whether a l
 - `Loan_Default_Prediction_System.ipynb`: The main Jupyter Notebook containing all preprocessing, EDA, model training, evaluation, and ROC curve comparison.
 - `loan_data.csv`: The dataset used for training and testing the ML models.
 - `Loan_Default_Prediction_Summary.pdf`: A one-page summary of the project goal, chosen model, final accuracy, and key insights.
-- `Loan_Default_Prediction_System.html`: Exported version of the notebook (viewable in browsers).
+
 
 ## 🛠 Technologies Used
 - Python
